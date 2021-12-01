@@ -1,2 +1,2 @@
 # Portfolio-Website
-My portfolio website
+Made with Zola static site generator built with rust.
